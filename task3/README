@@ -1,0 +1,5 @@
+Аргументы командной строки:
+task3.py values.json tests.json report.json
+values.json - путь к файлу values.json
+tests.json - путь к файлу tests.json
+report.json - путь к файлу report.json
